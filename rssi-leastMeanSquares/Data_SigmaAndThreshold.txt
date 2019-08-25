@@ -1,0 +1,2 @@
+sigma_TiAj_dBm 0
+Threshold_dBm -300
